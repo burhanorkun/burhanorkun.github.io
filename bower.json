@@ -1,0 +1,21 @@
+{
+  "name": "burhanorkun.github.io",
+  "homepage": "https://github.com/burhanorkun/burhanorkun.github.io",
+  "authors": [
+    "BURHAN ORKUN <burhan.orkun@turkcell.com.tr>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.7.1"
+  }
+}
