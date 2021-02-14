@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://burhanorkun.com',
   pathPrefix: '/',
   title: 'Blog by Burhan Orkun',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: 'Burhan Orkun\'s personal blog page',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,12 +12,12 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
       label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Articles',
+      path: '/'
     },
     {
       label: 'Contact me',
@@ -27,13 +27,13 @@ module.exports = {
   author: {
     name: 'Burhan Orkun',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Senior Java Software Developer @ Turkcell \n Interested in Dart,Flutter and NodeJS',
     contacts: {
       email: '',
       facebook: '#',
       telegram: '#',
       twitter: '#',
-      github: '#',
+      github: 'burhanorkun',
       rss: '',
       vkontakte: '',
       linkedin: '#',
