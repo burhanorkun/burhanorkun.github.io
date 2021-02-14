@@ -1,1 +1,0 @@
-# burhanorkun.github.io
