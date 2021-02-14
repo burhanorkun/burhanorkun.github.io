@@ -5,7 +5,7 @@ const preferDefault = m => (m && m.default) || m
 
 
 exports.components = {
-  "component---cache-dev-404-page-js": (preferDefault(require("/Users/burhanorkun/dev/my_personal_page/gatsby-starter-lumen/.cache/dev-404-page.js"))),
+  "component---cache-caches-gatsby-plugin-offline-app-shell-js": (preferDefault(require("/Users/burhanorkun/dev/my_personal_page/gatsby-starter-lumen/.cache/caches/gatsby-plugin-offline/app-shell.js"))),
   "component---src-templates-categories-list-template-js": (preferDefault(require("/Users/burhanorkun/dev/my_personal_page/gatsby-starter-lumen/src/templates/categories-list-template.js"))),
   "component---src-templates-category-template-js": (preferDefault(require("/Users/burhanorkun/dev/my_personal_page/gatsby-starter-lumen/src/templates/category-template.js"))),
   "component---src-templates-index-template-js": (preferDefault(require("/Users/burhanorkun/dev/my_personal_page/gatsby-starter-lumen/src/templates/index-template.js"))),
