@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Burhan Orkun',
     photo: '/photo.jpg',
-    bio: 'Senior Java Developer @Turkcell \n Interested in Dart,Flutter and NodeJS',
+    bio: 'Senior Java Developer @Turkcell - Interested in Dart,Flutter and NodeJS',
     contacts: {
       email: 'burhanorkun@gmail.com',
       facebook: 'burhanorkun',

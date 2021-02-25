@@ -12,7 +12,7 @@ module.exports = [{
       options: {"plugins":[],"trackingIds":["UA-73379983-2"],"pluginConfig":{"head":true}},
     },{
       plugin: require('../node_modules/gatsby-plugin-manifest/gatsby-browser.js'),
-      options: {"plugins":[],"name":"Blog by Burhan Orkun","short_name":"Blog by Burhan Orkun","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/photo.jpg","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"efd7a51043b9ab08e4e0cc7fdbcf1f1a"},
+      options: {"plugins":[],"name":"Blog - Burhan Orkun","short_name":"Blog - Burhan Orkun","start_url":"/","background_color":"#FFF","theme_color":"#F7A046","display":"standalone","icon":"static/photo.jpg","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"efd7a51043b9ab08e4e0cc7fdbcf1f1a"},
     },{
       plugin: require('../node_modules/gatsby-plugin-offline/gatsby-browser.js'),
       options: {"plugins":[],"workboxConfig":{"runtimeCaching":[{"urlPattern":{},"handler":"CacheFirst"},{"urlPattern":{},"handler":"StaleWhileRevalidate"},{"urlPattern":{},"handler":"StaleWhileRevalidate"},{"urlPattern":{},"handler":"StaleWhileRevalidate"}]}},
